@@ -1,5 +1,6 @@
 # Bible App
 > Simple Tool To Show Bible Books<br>
+![Screenshot_2](https://user-images.githubusercontent.com/88463490/149849120-16521936-c062-4ece-875f-fbc4f07cf4cd.png)
 
 
 <h3 align="left">Socials:</h3>
