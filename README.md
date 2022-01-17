@@ -1,5 +1,5 @@
 # Bible App
-> Simple Tool To Extract IP-Adress From Website<br>
+> Simple Tool To Show Bible Books<br>
 ![Screenshot_51](https://user-images.githubusercontent.com/88463490/149624610-278e0a0b-96fd-41f9-9f78-af7fc37a5cb0.png)
 
 
