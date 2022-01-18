@@ -5,7 +5,7 @@ book = ""
 verse = ""
 url = "https://getbible.net/json?passage="
 # Added For Python Applications
-end = "&raw=true"
+end = "&raw=true" shsj
 
 def specific_bible():
     global book
